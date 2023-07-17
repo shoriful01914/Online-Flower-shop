@@ -1,0 +1,199 @@
+body{
+    margin: 0px;
+}
+.shop-heading{
+    display: flex;
+    padding: 100px;
+    background: rgba(229, 84, 115, 0.10);
+    justify-content: space-around;
+    margin: auto;
+}
+.shop-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 70px;
+    font-weight: 800;
+    
+}
+.btn{
+padding: 20px 40px;
+color:white;
+border-radius: 8px;
+background: #E55473;
+}
+.flower-heading{
+    text-align: center;
+}
+.flower-title{
+padding-top: 100px;
+margin-top: 50px;
+color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+}
+.flower-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+ 
+.flowers{
+    background-color:white;
+    display: flex;
+    gap: 10px;
+    padding:80px;
+    justify-content: space-around;
+}
+.flower01{
+margin-left: 100px;
+}
+.flower03{
+    margin-right:100px;
+}
+.text-decoretion{
+    text-decoration: underline;
+}
+.flower-img{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+width: 450px;
+height: 500px;
+flex-shrink: 0;
+}
+.flower-img02{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 450px;
+ height: 500px;
+ flex-shrink: 0;
+}
+.flower-img03{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 450px;
+   height: 500px;
+   flex-shrink: 0;
+}
+.flower-hot-deal{
+    padding: 200px;;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}.flower-hot-deal-in{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+.flower-description-in{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
+.flower-deal{color: #E55473;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 200px;
+}
+.flower-png8{
+   margin-right:
+}
+.flower-in{
+    display: flex;
+    justify-content: space-around;
+}
+.flowe-ins01{
+    margin-left: 205px;
+}
+.flower-ins4{
+    margin-right: 220px;
+}
+.flower-last{
+    margin-top: 30px;
+}
+.beautiful{background: url('../styles/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    width: 1500px;
+    height: 450px;
+border-radius: 8px;
+margin-left: 220px;
+margin-top: 150px;
+}.beautifuls{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;;
+font-weight: 800;
+padding-top: 120px;
+}
+.beautiful01{color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+.beautiful02{
+width: 550px;
+height: 50px;
+}
+.flowershop-end{
+    text-align: center;
+    background: #111010;
+    padding: 100px;
+    margin-top: 100px;
+}
+.flowershop-title{
+color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+}
+.flower-descriptions{
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+}
+.visitshop{
+    background:url('../styles/my\ flowerShop.jpg');
+    width: 1500px;
+    height: 700px;
+border-radius: 8px;
+margin-left: 220px;S
+margin-top: 150px;
+}
+.flower-description-end{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    }
+    .visitshop-title{
+color:red;
+text-align: center;
+font-family: Lato;
+font-size: 40px;;
+font-weight: 800;
+padding-top: 120px;}
+.visitshop-description{
+color: white;
+text-align: center;
+font-family: Lato;
+font-size: 40px;;
+font-weight: 800;
+padding-top: 120px;
+}
+
